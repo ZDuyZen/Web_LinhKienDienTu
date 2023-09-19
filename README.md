@@ -1,5 +1,5 @@
 # Giới thiệu Web_LinhKienDienTu
-https://truyenpage.000webhostapp.com/
+Đây là website bán linh kiện điện tử được xây dựng từ ngôn ngữ PHP và hệ quản trị cơ sở dữ liệu MySQL
 
 ## Đề tài
 Website bán linh kiện điện tử
@@ -23,3 +23,6 @@ Lương Duy Minh
 + Quản lý danh sách sản phẩm
 + Quản lý tài khoản nhân viên, người dùng
 + Gửi email tới email của khách hàng
+
+## Demo
+https://truyenpage.000webhostapp.com/
